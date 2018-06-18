@@ -1,0 +1,3 @@
+# Proxy access
+
+Internal project that involves gather technical information about accessing our proxy server. That`s a bottleneck that we face actually when we organize symposium or meetings inside our building. We try to offer a solution thinking in the worst scenario as possible and to be agnostic to operating systems: the plan is to offer solution to MacOS, Windows, Linux and support mobile devices.
