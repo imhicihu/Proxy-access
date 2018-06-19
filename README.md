@@ -15,7 +15,7 @@ Internal project that involves gather technical information about accessing our 
 * Configuration
     - In the making
 * Dependencies
-    - None. This is a ¨must_ condition
+    - None. This is a _must_ condition
 * How to run tests
     - 
 * Deployment instructions
