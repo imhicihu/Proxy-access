@@ -1,6 +1,6 @@
 # RATIONALE #
 
-Internal project that involves gather technical information about accessing our proxy server. That`s a bottleneck that we face actually when we organize symposium or meetings inside our building. We try to offer a solution thinking in the worst scenario as possible and to be agnostic to operating systems: the plan is to offer solution to MacOS, Windows, Linux and support mobile devices.
+Internal project that involves gather technical information about accessing our proxy server. That's a bottleneck that we face actually when we organize a symposium or a scientific meetings inside our building. We try to offer a solution thinking in the worst scenario as possible and at the same time be agnostic to operating systems: our goal is offer solution to MacOS, Windows, Linux and support mobile devices.
 
 ### What is this repository for? ###
 
@@ -11,9 +11,9 @@ Internal project that involves gather technical information about accessing our 
 ### How do I get set up? ###
 
 * Summary of set up
-    - In the making
+    - _In the making_
 * Configuration
-    - In the making
+    - _In the making_
 * Dependencies
     - None. This is a _must_ condition
 * How to run tests
@@ -32,9 +32,9 @@ Internal project that involves gather technical information about accessing our 
 ### Contribution guidelines ###
 
 * Writing tests
-    - In the making
+    - _In the making_
 * Code review
-    - In the making
+    - _In the making_
 * Other guidelines
     - This is and will be a massive guideline. Lots of data will be gathered. 
 
