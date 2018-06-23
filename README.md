@@ -1,11 +1,11 @@
 # RATIONALE #
 
-Internal project that involves gather technical information about accessing our proxy server. That's a bottleneck that we face actually when we organize a symposium or a scientific meetings inside our building. We try to offer a solution thinking in the worst scenario as possible and at the same time be agnostic to operating systems: our goal is offer solution to MacOS, Windows, Linux and support mobile devices.
+Internal project that involves gather technical information about accessing our proxy server. That's a bottleneck that we face actually when we organize a symposium or a scientific meetings inside our location. We try to offer a solution thinking in the _worst_ scenario as possible and at the same time be agnostic to operating systems: our commitment is offer a solution to MacOS, Windows, Linux and mostly support to mobile devices.
 
 ### What is this repository for? ###
 
 * Quick summary
-    - This repo is the core of another future repo: a mobile application to offer for free to the external public that access our wifi connection(s)
+    - This repo is the core of another future repo: a mobile application to offer for _free_ to the external public that access our wifi connection(s)
 * Version 1.01
 
 ### How do I get set up? ###
