@@ -17,7 +17,7 @@ Internal project that involves gather technical information about accessing our 
 * Dependencies
     - None. This is a _must_ condition
 * How to run tests
-    - 
+    - Just download our app in Google Play
 * Deployment instructions
     - Just download our app from Google Play
 
