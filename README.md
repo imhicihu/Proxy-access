@@ -18,7 +18,7 @@
 * Dependencies
     - None. This is a _must_ condition
 * How to run tests
-    - Just download our app in Google Play
+    - _In the making_
 * Deployment instructions
     - Just download our app from Google Play
 
