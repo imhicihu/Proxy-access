@@ -1,6 +1,6 @@
 # RATIONALE #
 
-* Internal project that involves gather technical information about accessing our proxy server. That's a bottleneck that we face actually when we organize a symposium or a scientific meetings inside our location. We try to offer a solution thinking in the _worst_ scenario as possible and at the same time be agnostic to operating systems: our commitment is offer a solution to MacOS, Windows, Linux and mostly support to mobile devices.
+* Internal project that involves gather technical information about accessing our proxy server. That's a bottleneck that we face actually when we organize a symposium or a scientific meetings inside our location. We try to offer a solution thinking in the _worst_ scenario as possible and at the same time be agnostic to operating systems: our commitment is offer a solution to MacOS, Windows, Linux and (mostly) support to mobile devices
 * This repo is a living document that will grow and adapt over time
 
 ### What is this repository for? ###
@@ -28,16 +28,16 @@
 
 ### Changelog ###
 
-* Please check the [Commits](https://bitbucket.org/imhicihu/proxy-access/commits/allhttps://bitbucket.org/imhicihu/XXXXXXXXXXXXXXXX/commits/) section for the current status
+* Please check the [Commits](https://bitbucket.org/imhicihu/proxy-access/commits/) section for the current status
 
 ### Contribution guidelines ###
 
 * Writing tests
-    - _In the making_
+    - Install the app on your mobile device (when it's available). Play. Judge.
 * Code review
-    - _In the making_
+    - You can browse the guidelines. There is no plan to release code.
 * Other guidelines
-    - This is and will be a massive guideline. Lots of data will be gathered. 
+    - This is and will be a _massive_ guideline.  
 
 ### Who do I talk to? ###
 
@@ -53,4 +53,4 @@
 
 ### Licence ###
 
-* The content of this project itself is licensed under the {XXXXXXXXXXXXXX}    
+* The content of this project itself is licensed under the MIT License    
