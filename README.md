@@ -1,3 +1,6 @@
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+![stability-wip](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
+
 # RATIONALE #
 
 * Internal project that involves gather technical information about accessing our proxy server. That's a bottleneck that we face actually when we organize a symposium or a scientific meetings inside our location. We try to offer a solution thinking in the _worst_ scenario as possible and at the same time be agnostic to operating systems: our commitment is offer a solution to MacOS, Windows, Linux and (mostly) support to mobile devices
