@@ -14,16 +14,18 @@
 
 ### How do I get set up? ###
 
-* Summary of set up
-    - _In the making_
-* Configuration
-    - _In the making_
+* Summary of set up & Configuration
+    - Check this [list of verification](https://bitbucket.org/imhicihu/proxy-access/src/master/MacOSX_proxy_access_spanish.md)
 * Dependencies
     - None. This is a _must_ condition
 * How to run tests
-    - _In the making_
-* Deployment instructions
-    - Just download our app from Google Play
+    - There is no run test. This is a massive [checklist](https://bitbucket.org/imhicihu/proxy-access/src/master/MacOSX_proxy_access_spanish.md)
+
+### Related repositories
+
+* [Conferences](https://bitbucket.org/imhicihu/conferences/src/)
+* [Streaming](https://bitbucket.org/imhicihu/streaming/src/master/)
+* [Setting up Github under proxy](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/src/master/)
 
 ### Issues ###
 
@@ -35,10 +37,8 @@
 
 ### Contribution guidelines ###
 
-* Writing tests
-    - Install the app on your mobile device (when it's available). Play. Judge.
 * Code review
-    - You can browse the guidelines. There is no plan to release code.
+    - You can browse the [checklist](https://bitbucket.org/imhicihu/proxy-access/src/master/MacOSX_proxy_access_spanish.md).
 * Other guidelines
     - This is and will be a _massive_ guideline.  
 
@@ -48,7 +48,6 @@
     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/proxy-access/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
-
 
 ### Legal ###
 
