@@ -26,6 +26,8 @@
 * [Conferences](https://bitbucket.org/imhicihu/conferences/src/)
 * [Streaming](https://bitbucket.org/imhicihu/streaming/src/master/)
 * [Setting up Github under proxy](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/src/master/)
+* [NPM under proxy (settings)](https://bitbucket.org/imhicihu/npm-under-proxy-settings/src/master/)
+
 
 ### Issues ###
 
