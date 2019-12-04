@@ -28,7 +28,6 @@
 * [Setting up Github under proxy](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/src/master/)
 * [NPM under proxy (settings)](https://bitbucket.org/imhicihu/npm-under-proxy-settings/src/master/)
 
-
 ### Issues ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/proxy-access/issues?status=new&status=open)
@@ -50,6 +49,10 @@
     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/proxy-access/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
+
+### Code of Conduct
+
+* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/proxy-access/src/master/code_of_conduct.md)
 
 ### Legal ###
 
