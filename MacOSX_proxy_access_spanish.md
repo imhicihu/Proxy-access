@@ -6,8 +6,8 @@
 * Clic en `+`
 * Introducir `IMHICIHU`
 * `OK`
-* Elegir `Red_IMHICIHU` o `IMHICIHU 2018`
-* Ingresar clave
+* Elegir `Red_IMHICIHU` o `IMHICIHU 2018` (redes actualizadas a diciembre de 2019)
+* Ingresar clave (pedirla en la Secretaría del Instituto)
 * Clic `Avanzado`
 * Clic en `Proxies`
 * Clic en:
