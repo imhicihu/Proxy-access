@@ -1,11 +1,11 @@
-![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
-![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
+![stability-wip](images/3278295154-status_archived.png)
+![stability-wip](images/3847436881-internal_use_stable.png)
 
 # RATIONALE #
 
 * Internal project that involves gather technical information about accessing our proxy server. That's a bottleneck that we face actually when we organize a symposium or a scientific meetings inside our location. We try to offer a solution thinking in the _worst_ scenario as possible and at the same time be agnostic to operating systems: our commitment is offer a solution to MacOS, Windows, Linux and (mostly) support to mobile devices
 * This repo is a living document that will grow and adapt over time
-![proxy.jpg](https://bitbucket.org/repo/rpjGxxX/images/3838550455-Oj5Rw.png)
+![proxy.jpg](images/3838550455-Oj5Rw.png)
 
 ### What is this repository for? ###
 
@@ -16,11 +16,11 @@
 ### How do I get set up? ###
 
 * Summary of set up & Configuration
-    - Check this [list of verification](https://bitbucket.org/imhicihu/proxy-access/src/master/MacOSX_proxy_access_spanish.md)
+    - Check this [list of verification](MacOSX_proxy_access_spanish.md)
 * Dependencies
     - None. This is a _must_ condition
 * How to run tests
-    - There is no run test. This is a massive [checklist](https://bitbucket.org/imhicihu/proxy-access/src/master/MacOSX_proxy_access_spanish.md)
+    - There is no run test. This is a massive [checklist](MacOSX_proxy_access_spanish.md)
 
 ### Related repositories
 
@@ -40,7 +40,7 @@
 ### Contribution guidelines ###
 
 * Code review
-    - You can browse the [checklist](https://bitbucket.org/imhicihu/proxy-access/src/master/MacOSX_proxy_access_spanish.md).
+    - You can browse the [checklist](MacOSX_proxy_access_spanish.md).
 * Other guidelines
     - This is and will be a _massive_ guideline.  
 
@@ -48,12 +48,10 @@
 
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/proxy-access/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/proxy-access/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
@@ -61,4 +59,4 @@
 
 ### Licence ###
 
-* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)
+* The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)
