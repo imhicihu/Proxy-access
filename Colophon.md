@@ -1,4 +1,4 @@
-## Technical requeriments ##
+### Technical requirements
 
 * Hardware
      - Macbook 13 inches
@@ -9,4 +9,4 @@
 * Software
     - Proxy stuff
         - [mitmproxy](https://mitmproxy.org/) is a free and open source interactive HTTPS proxy
-        - [Carbon](https://carbon.now.sh/): (code screen sharing)
+        - [Carbon](https://carbon.now.sh/): code screen sharing
