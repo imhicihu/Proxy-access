@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/3kZZTJlGT4iuAYpDQk3rXg.png?raw=true" alt="Logotipo de Proxy-access"/>
+</p>
+
+---
+
 ![stability-wip](images/3278295154-status_archived.png)
 ![stability-wip](images/3847436881-internal_use_stable.png)
 
@@ -24,18 +30,18 @@
 
 ### Related repositories
 
-* [Conferences](https://bitbucket.org/imhicihu/conferences/src/)
-* [Streaming](https://bitbucket.org/imhicihu/streaming/src/master/)
+* [Conferences](https://github.com/imhicihu/conferences/src/)
+* [Streaming](https://github.com/imhicihu//streaming/src/master/)
 * [Setting up Github under proxy](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/src/master/)
 * [NPM under proxy (settings)](https://bitbucket.org/imhicihu/npm-under-proxy-settings/src/master/)
 
 ### Issues ###
 
-* Check them on [here](https://bitbucket.org/imhicihu/proxy-access/issues?status=new&status=open)
+* Check them on [here](https://github.com/imhicihu/Proxy-access/issues)
 
 ### Changelog ###
 
-* Please check the [Commits](https://bitbucket.org/imhicihu/proxy-access/commits/) section for the current status
+* Please check the [Commits](https://github.com/imhicihu/Proxy-access/pulls) section for the current status
 
 ### Contribution guidelines ###
 
